@@ -20,7 +20,7 @@ timezone: Australia/Brisbane
 
 title: Otto Hellwig # the main title
 
-tagline: Computer Science at QUT # it will display as the sub-title
+tagline: Life, tech and random thoughts # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog for tech-related stuff and other things I find interesting.
