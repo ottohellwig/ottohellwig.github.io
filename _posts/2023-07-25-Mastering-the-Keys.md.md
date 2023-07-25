@@ -1,6 +1,6 @@
 ---
 title: Mastering the Keys: A Guide to Typing Faster
-date: 2023-07-23 18:00:00 +/-TTTT
+date: 2023-07-25 15:00:00 +1000
 categories: [Guide, Typing]
 tags: [typing,wpm,test,learning]     # TAG names should always be lowercase
 ---
@@ -12,6 +12,8 @@ In today's fast-paced digital world, typing has become an essential skill. Wheth
 **A quick disclaimer:** I'm no typing maestro but I have climbed from 60 WPM to averaging 110 WPM comfortably on any keyboard.
 
 So here's how I did it.
+
+![Desktop View](/assets/img/mastering-the-keys/typing-test-sc.png){: w="700" h="400"}
 
 ### Assess Your Current Typing Speed
 
@@ -35,13 +37,11 @@ Regardless, pick and take a test to determine your words-per-minute (WPM) and se
 
 Touch typing is the holy grail of fast and accurate typing. It involves using all ten fingers without looking at the keyboard. To start, familiarize yourself with the correct hand positioning: place your fingers on the "home row" keys (ASDF for the left hand and JKL; for the right hand) and let them rest there.
 
-### Practice Makes Perfect - Home Row Exercises
-
-Begin your practice by focusing on the home row keys. Utilize typing exercises and tutorials that concentrate on letters located on the home row. Start slowly and gradually increase your speed as you gain confidence. Repetition and consistency are key to building muscle memory and improving speed.
-
 ### Utilize Online Typing Tools and Games
 
 The internet offers a wealth of resources to help you practice and improve your typing speed. Explore websites that offer typing games or interactive lessons. Not only are they fun, but they also challenge you to type quickly and accurately.
+
+One of my favourite typing games is [Epistory](https://epistorygame.com/), an action-adventure typing video game.
 
 ### Typing Drills for Specific Weak Areas
 

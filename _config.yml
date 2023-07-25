@@ -20,13 +20,13 @@ timezone: Australia/Brisbane
 
 title: Otto Hellwig # the main title
 
-tagline: Life, tech and random thoughts # it will display as the sub-title
+tagline: Life, tech and random things # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog for tech-related stuff and other things I find interesting.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://ottohellwig.github.io"
+url: "https://ottohellwig.me"
 
 github:
   username: ottohellwig # change to your github username
