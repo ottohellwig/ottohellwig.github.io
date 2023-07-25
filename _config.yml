@@ -20,7 +20,7 @@ timezone: Australia/Brisbane
 
 title: Otto Hellwig # the main title
 
-tagline: Life, tech and random things # it will display as the sub-title
+tagline: Life, tech and random thoughts # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A blog for tech-related stuff and other things I find interesting.
@@ -91,8 +91,8 @@ comments:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
   # utterances settings › https://utteranc.es/
   utterances:
-    repo: # <gh-username>/<repo>
-    issue_term: # < url | pathname | title | ...>
+    repo: ottohellwig/ottohellwig.github.io # <gh-username>/<repo>
+    issue_term: https://ottohellwig.me/ | # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
     repo: # <gh-username>/<repo>
