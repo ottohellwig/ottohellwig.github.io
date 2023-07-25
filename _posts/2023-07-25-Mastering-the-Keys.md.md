@@ -1,19 +1,18 @@
 ---
-title: Mastering the Keys: A Guide to Typing Faster
+title: Mastering the Keys
 date: 2023-07-25 15:00:00 +1000
 categories: [Guide, Typing]
-tags: [typing,wpm,test,learning]     # TAG names should always be lowercase
+tags: [typing, wpm, test, learning] # TAG names should always be lowercase
 ---
-
-## Becoming a Keyboard Warrior
 
 In today's fast-paced digital world, typing has become an essential skill. Whether you're a student trying to keep up with class notes, a professional aiming to improve productivity, or a writer expressing your creativity, typing faster can be a game-changer. In this blog, I'll share some practical tips and techniques to help you enhance your typing speed and efficiency.
 
-**A quick disclaimer:** I'm no typing maestro but I have climbed from 60 WPM to averaging 110 WPM comfortably on any keyboard.
+**A quick disclaimer:** I'm no typing maestro but I have climbed from 60 WPM to averaging 110 WPM _comfortably_ on any keyboard.
 
 So here's how I did it.
 
 ![Desktop View](/assets/img/mastering-the-keys/typing-test-sc.png){: w="700" h="400"}
+_My Test Results_
 
 ### Assess Your Current Typing Speed
 
@@ -31,7 +30,7 @@ Before embarking on your journey to faster typing, it's essential to know where 
 - Diverts efforts more to punctuation than to speed (WPM).
 - Produce bad touch typing habits or incorrect patterns.
 
-Regardless, pick and take a test to determine your words-per-minute (WPM) and set a baseline for improvement.
+Regardless, pick and take a test to determine your words-per-minute (WPM) and **set a baseline for improvement**. My favourite typing test is [Typing Speed Test](https://typing-speed-test.aoeu.eu/).
 
 ### Touch Typing: The Foundation of Speed
 
@@ -43,21 +42,22 @@ The internet offers a wealth of resources to help you practice and improve your 
 
 One of my favourite typing games is [Epistory](https://epistorygame.com/), an action-adventure typing video game.
 
-### Typing Drills for Specific Weak Areas
+### The Magic of Keyboards
 
-Identify specific keys or letter combinations where you tend to make mistakes or struggle with speed. Design custom typing drills to target those areas and practice them regularly. With focused effort, you can turn your weaknesses into strengths.
+Keyboards can have a significant impact on typing speed and overall typing experience. Although there is too much to go over as I could write a dozen blogs on the weird world that is keyboards, the design, layout, and technology of a keyboard can influence how efficiently and comfortably you type. But the biggest impacts that I've found are:
 
-### Maintain Good Posture and Relaxation
+1. Key Switch Type: Keyboards can use different types of key switches, such as membrane, scissor, or mechanical switches. Mechanical keyboards, in particular, are favored by many typists for their tactile feedback and distinct keypress, allowing for faster and more accurate typing. Ironically, I prefer membrane switch keyboards as they are flatter and there is less distance for the fingers to travel for each key. This can usually be solved based on the next point.
 
-Typing faster isn't just about your fingers; it's about your overall posture and hand relaxation. Sit with a straight back, keep your wrists relaxed and slightly elevated, and maintain a light touch on the keys. Tension in your hands and fingers can hinder speed and lead to fatigue.
+2. Keyboard Size: The size and layout of the keyboard, such as full-size, tenkeyless (TKL), or compact, can influence typing comfort and speed. Some users may prefer smaller keyboards, as they require less finger movement. I use a 75% keyboard RK84 with stock brown switches, which is probably one of the worst keyboards you could use for fast typing. A
+
+![Keyboard Size](https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=540%2Cq=85%2Cwidth=960/wp-content/uploads/keyboard-sizes.png){: w="700" h="400"}
+_Source: [ProSettings](https://prosettings.net/blog/keyboard-size-differences-explained/), Keyboard Sizes_
+
+3. Keycap Profile: The angle, shape and size of keycaps defines it's profile. Keycaps with dramatic undulation and heights can make typing tiring and difficult. Whereas keycap profiles which are flat like DSA or Cherry can cause signficant mistyping or key rolling. I find MDA and MCR are the most ideal as they are the middleground in both height and angles.
+
+![Keycap Profile](https://cdn.autonomous.ai/static/upload/images/common/upload/20220405/Complete-Guide-of-Keycap-Profiles-and-Materials_260fb2d60b0.jpg){: w="700" h="400"}
+_Source: [Autonomous](https://www.autonomous.ai/ourblog/guide-of-keycap-profiles-and-materials), Keycap Profiles_
 
 ### Conclusion
 
 Improving your typing speed is an achievable goal with consistent practice and dedication. Remember, progress takes time, so be patient with yourself. Celebrate the small victories along the way, and soon you'll find yourself typing faster and more efficiently than ever before. So, put your fingers to the keys and let the journey to faster typing begin! Happy mashing! 🚀
-
-# Notes
-
-- Typing test screenshot
-- Keyboard layouts
-- Keyboard types
-- Images
