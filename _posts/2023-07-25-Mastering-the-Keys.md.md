@@ -48,10 +48,8 @@ Keyboards can have a significant impact on typing speed and overall typing exper
 
 1. Key Switch Type: Keyboards can use different types of key switches, such as membrane, scissor, or mechanical switches. Mechanical keyboards, in particular, are favored by many typists for their tactile feedback and distinct keypress, allowing for faster and more accurate typing. Ironically, I prefer membrane switch keyboards as they are flatter and there is less distance for the fingers to travel for each key. This can usually be solved based on the next point.
 
-2. Keyboard Size: The size and layout of the keyboard, such as full-size, tenkeyless (TKL), or compact, can influence typing comfort and speed. Some users may prefer smaller keyboards, as they require less finger movement. I use a 75% keyboard RK84 with stock brown switches, which is probably one of the worst keyboards you could use for fast typing.
-
-![Keyboard Size](https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=540%2Cq=85%2Cwidth=960/wp-content/uploads/keyboard-sizes.png){: w="700" h="400"}
-_Source: [ProSettings](https://prosettings.net/blog/keyboard-size-differences-explained/), Keyboard Sizes_
+2. Keyboard Size: The size and layout of the keyboard, such as full-size, tenkeyless (TKL), or compact, can influence typing comfort and speed. Some users may prefer smaller keyboards, as they require less finger movement. I use a 75% keyboard RK84 with stock brown switches, which is probably one of the worst keyboards you could use for fast typing. ![Keyboard Size](https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=540%2Cq=85%2Cwidth=960/wp-content/uploads/keyboard-sizes.png){: w="700" h="400"}
+   _Source: [ProSettings](https://prosettings.net/blog/keyboard-size-differences-explained/), Keyboard Sizes_
 
 3. Keycap Profile: The angle, shape and size of keycaps defines it's profile. Keycaps with dramatic undulation and heights can make typing tiring and difficult. Whereas keycap profiles which are flat like DSA or Cherry can cause signficant mistyping or key rolling. I find MDA and MCR are the most ideal as they are the middleground in both height and angles.
 
