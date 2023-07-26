@@ -20,15 +20,15 @@ Before embarking on your journey to faster typing, it's essential to know where 
 
 #### Pros
 
-- Simulate real-world writing for assessments, articles and formal occasions.
-- Develops reading and punctuation skills lost in word-only tests.
-- Enforces formal typing which improves professionalism.
+1. Simulate real-world writing for assessments, articles and formal occasions.
+2. Develops reading and punctuation skills lost in word-only tests.
+3. Enforces formal typing which improves professionalism.
 
 #### Cons
 
-- Can feel demotivating or frustrating due to low speed.
-- Diverts efforts more to punctuation than to speed (WPM).
-- Produce bad touch typing habits or incorrect patterns.
+1. Can feel demotivating or frustrating due to low speed.
+2. Diverts efforts more to punctuation than to speed (WPM).
+3. Produce bad touch typing habits or incorrect patterns.
 
 Regardless, pick and take a test to determine your words-per-minute (WPM) and **set a baseline for improvement**. My favourite typing test is [Typing Speed Test](https://typing-speed-test.aoeu.eu/).
 
@@ -46,12 +46,14 @@ One of my favourite typing games is [Epistory](https://epistorygame.com/), an ac
 
 Keyboards can have a significant impact on typing speed and overall typing experience. Although there is too much to go over as I could write a dozen blogs on the weird world that is keyboards, the design, layout, and technology of a keyboard can influence how efficiently and comfortably you type. But the biggest impacts that I've found are:
 
-1. Key Switch Type: Keyboards can use different types of key switches, such as membrane, scissor, or mechanical switches. Mechanical keyboards, in particular, are favored by many typists for their tactile feedback and distinct keypress, allowing for faster and more accurate typing. Ironically, I prefer membrane switch keyboards as they are flatter and there is less distance for the fingers to travel for each key. This can usually be solved based on the next point.
+- Key Switch Type: Keyboards can use different types of key switches, such as membrane, scissor, or mechanical switches. Mechanical keyboards, in particular, are favored by many typists for their tactile feedback and distinct keypress, allowing for faster and more accurate typing. Ironically, I prefer membrane switch keyboards as they are flatter and there is less distance for the fingers to travel for each key. This can usually be solved based on the next point.
 
-2. Keyboard Size: The size and layout of the keyboard, such as full-size, tenkeyless (TKL), or compact, can influence typing comfort and speed. Some users may prefer smaller keyboards, as they require less finger movement. I use a 75% keyboard RK84 with stock brown switches, which is probably one of the worst keyboards you could use for fast typing. ![Keyboard Size](https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=540%2Cq=85%2Cwidth=960/wp-content/uploads/keyboard-sizes.png){: w="700" h="400"}
-   _Source: [ProSettings](https://prosettings.net/blog/keyboard-size-differences-explained/), Keyboard Sizes_
+- Keyboard Size: The size and layout of the keyboard, such as full-size, tenkeyless (TKL), or compact, can influence typing comfort and speed. Some users may prefer smaller keyboards, as they require less finger movement. I use a 75% keyboard RK84 with stock brown switches, which is probably one of the worst keyboards you could use for fast typing.
 
-3. Keycap Profile: The angle, shape and size of keycaps defines it's profile. Keycaps with dramatic undulation and heights can make typing tiring and difficult. Whereas keycap profiles which are flat like DSA or Cherry can cause signficant mistyping or key rolling. I find MDA and MCR are the most ideal as they are the middleground in both height and angles.
+![Keyboard Size](https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=540%2Cq=85%2Cwidth=960/wp-content/uploads/keyboard-sizes.png){: w="700" h="400"}
+_Source: [ProSettings](https://prosettings.net/blog/keyboard-size-differences-explained/), Keyboard Sizes_
+
+- Keycap Profile: The angle, shape and size of keycaps defines it's profile. Keycaps with dramatic undulation and heights can make typing tiring and difficult. Whereas keycap profiles which are flat like DSA or Cherry can cause signficant mistyping or key rolling. I find MDA and MCR are the most ideal as they are the middleground in both height and angles.
 
 ![Keycap Profile](https://cdn.autonomous.ai/static/upload/images/common/upload/20220405/Complete-Guide-of-Keycap-Profiles-and-Materials_260fb2d60b0.jpg){: w="700" h="400"}
 _Source: [Autonomous](https://www.autonomous.ai/ourblog/guide-of-keycap-profiles-and-materials), Keycap Profiles_
