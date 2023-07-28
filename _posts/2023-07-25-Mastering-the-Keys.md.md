@@ -5,17 +5,14 @@ categories: [Guide, Typing]
 tags: [typing, wpm, test, learning] # TAG names should always be lowercase
 image:
   path: /assets/img/mastering-the-keys/typing-test-sc.png
-  alt: Thumbnail of typing test WPM.
+  alt: My typing test WPM results
 ---
 
 In today's fast-paced digital world, typing has become an essential skill. Whether you're a student trying to keep up with class notes, a professional aiming to improve productivity, or a writer expressing your creativity, typing faster can be a game-changer. In this blog, I'll share some practical tips and techniques to help you enhance your typing speed and efficiency.
 
 **A quick disclaimer:** I'm no typing maestro but I have climbed from 60 WPM to averaging 110 WPM _comfortably_ on any keyboard.
 
-So here's how I did it.
-
-![Desktop View](/assets/img/mastering-the-keys/typing-test-sc.png){: w="700" h="400"}
-_My Test Results_
+So here's how I did it:
 
 ### Assess Your Current Typing Speed
 
