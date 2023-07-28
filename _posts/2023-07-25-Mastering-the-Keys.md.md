@@ -3,6 +3,9 @@ title: Mastering the Keys
 date: 2023-07-25 15:00:00 +1000
 categories: [Guide, Typing]
 tags: [typing, wpm, test, learning] # TAG names should always be lowercase
+image:
+  path: /assets/img/mastering-the-keys/typing-test-sc.png
+  alt: Thumbnail of typing test WPM.
 ---
 
 In today's fast-paced digital world, typing has become an essential skill. Whether you're a student trying to keep up with class notes, a professional aiming to improve productivity, or a writer expressing your creativity, typing faster can be a game-changer. In this blog, I'll share some practical tips and techniques to help you enhance your typing speed and efficiency.
