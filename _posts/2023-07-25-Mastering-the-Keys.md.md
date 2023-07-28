@@ -57,7 +57,8 @@ _Source: [ProSettings](https://prosettings.net/blog/keyboard-size-differences-ex
 
 - Keycap Profile: The angle, shape and size of keycaps defines it's profile. Keycaps with dramatic undulation and heights can make typing tiring and difficult. Whereas keycap profiles which are flat like DSA or Cherry can cause signficant mistyping or key rolling. I find MDA and MCR are the most ideal as they are the middleground in both height and angles.
 
-![Keycap Profile](https://cdn.autonomous.ai/static/upload/images/common/upload/20220405/Complete-Guide-of-Keycap-Profiles-and-Materials_260fb2d60b0.jpg){: w="700" h="400"}
+![light mode only](https://cdn.autonomous.ai/static/upload/images/common/upload/20220405/Complete-Guide-of-Keycap-Profiles-and-Materials_260fb2d60b0.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+![dark mode only](https://cdn.autonomous.ai/static/upload/images/common/upload/20220405/Complete-Guide-of-Keycap-Profiles-and-Materials_260fb2d60b0.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
 _Source: [Autonomous](https://www.autonomous.ai/ourblog/guide-of-keycap-profiles-and-materials), Keycap Profiles_
 
 ### Conclusion
