@@ -4,7 +4,7 @@ date: 2023-08-15 19:40:00 +1000
 categories: [Review, Tech]
 tags: [tech, speakers, review, creative] # TAG names should always be lowercase
 image:
-  path: /assets/img/creative-pebble-review/CreativePebble1.jpg
+  path: /assets/img/creative-pebble-review/pebble1.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: Creative Pebble Speakers
 ---
@@ -25,8 +25,8 @@ After looking for budget speakers to alleviate my eardrums from being damaged by
 - Not Ideal for Large Spaces: These speakers are best suited for smaller rooms or personal setups. In larger spaces, they might struggle to fill the area with sound adequately.
 - No Bluetooth Connectivity: Unlike some competitors, the Pebble 2.0 speakers rely solely on a wired USB connection. This limits their versatility, as they can't connect wirelessly to smartphones or other Bluetooth-enabled devices.
 
-![light mode only](/assets/img/creative-pebble-review/CreativePebble2.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-![dark mode only](/assets/img/creative-pebble-review/CreativePebble2.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+![light mode only](/assets/img/creative-pebble-review/pebble2.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+![dark mode only](/assets/img/creative-pebble-review/pebble2.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
 _Admire the beauty of the pebble_
 
 ### Verdict
