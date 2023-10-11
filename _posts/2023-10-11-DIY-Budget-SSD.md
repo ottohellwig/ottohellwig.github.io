@@ -21,8 +21,8 @@ In today's digital age, data storage is crucial, whether you're a professional h
 
 There are loads of options for both enclosures and SSDs, so making the right decision really comes down to your own personal needs. For me personally, I'm just a university student with limited requirements so I picked up whatever was cheap at my local Umart. If you are a photographer, video editor or generally have lots of large files, you will most definitely want a high speed SSD and enclosure that can handle those speeds (USB-C, better chip, etc). Here's a really helpful table from [Kingston](https://www.kingston.com/en/blog/pc-performance/ssd-form-factors) to help you out.
 
-![light mode only](/assets/img/diy-budget-ssd/ssd-info.PNG){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-![dark mode only](/assets/img/diy-budget-ssd/ssd-info.PNG){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+![light mode only](/assets/img/diy-budget-ssd/ssd-info.png){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+![dark mode only](/assets/img/diy-budget-ssd/ssd-info.png){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
 _SSD Info Table by Kingston Technology_
 
 ### My DIY SSD
@@ -68,8 +68,8 @@ _SSD Packaging_
     _Step 4_
 
 5.  Admire the final product.
-    ![light mode only](/assets/img/diy-budget-ssd/final-product.PNG){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-    ![dark mode only](/assets/img/diy-budget-ssd/final-product.PNG){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+    ![light mode only](/assets/img/diy-budget-ssd/final-product.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+    ![dark mode only](/assets/img/diy-budget-ssd/final-product.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
     _Step 5_
 
 ### To Conclude
