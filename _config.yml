@@ -20,7 +20,7 @@ timezone: Australia/Brisbane
 
 title: Otto Hellwig # the main title
 
-tagline: Life, tech and inbetween # it will display as the sub-title
+tagline: Personal tech and life blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Tech and life blog with interesting guides, reviews and more.

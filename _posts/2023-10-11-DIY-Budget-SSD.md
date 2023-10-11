@@ -1,6 +1,6 @@
 ---
 title: DIY Budget SSD
-date: 2023-10-11 22:00:00 +1000
+date: 2023-10-11 22:27:00 +1000
 categories: [Guide, Tech]
 tags: [tech, ssd, learning, tutorial] # TAG names should always be lowercase
 image:
@@ -19,7 +19,7 @@ In today's digital age, data storage is crucial, whether you're a professional h
 
 ### Options
 
-There are loads of options for both enclosures and SSDs, so making the right decision really comes down to your own personal needs. For me personally, I'm just a university student with limited requirements so I picked up whatever was cheap at my local Umart. If you are a photographer, video editor or generally have lots of large files, you will most definitely want a high speed SSD and enclosure that can handle those speeds (USB-C, better chip, etc). Here's a really helpful table from Kingston to help you out.
+There are loads of options for both enclosures and SSDs, so making the right decision really comes down to your own personal needs. For me personally, I'm just a university student with limited requirements so I picked up whatever was cheap at my local Umart. If you are a photographer, video editor or generally have lots of large files, you will most definitely want a high speed SSD and enclosure that can handle those speeds (USB-C, better chip, etc). Here's a really helpful table from [Kingston](https://www.kingston.com/en/blog/pc-performance/ssd-form-factors) to help you out.
 
 ![light mode only](/assets/img/diy-budget-ssd/ssd-info.PNG){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
 ![dark mode only](/assets/img/diy-budget-ssd/ssd-info.PNG){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
@@ -27,7 +27,7 @@ _SSD Info Table by Kingston Technology_
 
 ### My DIY SSD
 
-So for the SSD, I picked a Crucial P3 1TB PCIe NVMe M.2 SSD for AUD$65.00 from Umart. For the enclosure, I purchased an ORICO M.2 NVMe SSD Enclosure (M2PV) for AUD$24.00 from Amazon. Although these are not the most cost effective or performance orientated options, they were relatively cheap and convenient. Further, the total cost was much cheaper than buying one from JB Hi-Fi, Officeworks or the other tech stores.
+So for the SSD, I picked a [Crucial P3 1TB PCIe NVMe M.2 SSD](https://www.umart.com.au/product/crucial-p3-1tb-ct1000p3ssd8-pcie-nvme-m-2-ssd-65227) for AUD$65.00 from Umart. For the enclosure, I purchased an [ORICO M.2 NVMe SSD Enclosure (M2PV)](https://www.amazon.com.au/ORICO-NVMe-Enclosure-Gbps-Support/dp/B08G14NBCS) for AUD$24.00 from Amazon. Although these are not the most cost effective or performance orientated options, they were relatively cheap and convenient. Further, the total cost was much cheaper than buying one from JB Hi-Fi, Officeworks or the other tech stores.
 
 ### DIY Price vs. Premade Price
 
