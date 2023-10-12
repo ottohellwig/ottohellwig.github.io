@@ -68,8 +68,8 @@ _SSD Packaging_
     _Step 4_
 
 5.  Admire the final product.
-    ![light mode only](/assets/img/diy-budget-ssd/final-product.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-    ![dark mode only](/assets/img/diy-budget-ssd/final-product.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+    ![light mode only](/assets/img/diy-budget-ssd/final-product.jpg){: .light .w-75 .shadow .rounded-10 w="400" h="400"}
+    ![dark mode only](/assets/img/diy-budget-ssd/final-product.jpg){: .dark .w-75 .shadow .rounded-10 w='400' h='400' }
     _Step 5_
 
 ### To Conclude
