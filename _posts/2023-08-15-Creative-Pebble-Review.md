@@ -9,7 +9,7 @@ image:
   alt: Creative Pebble Speakers
 ---
 
-After looking for budget speakers to alleviate my eardrums from being damaged by closed-back active noise cancelling (ANC) headphones, I stumbled upon the Creative Pebble while browsing Umart. So I decided to pick these $20 pair of speakers up and give my humble opinions in addition to testing them for myself. So here's the rundown:
+After looking for budget speakers to reduce the discomfort caused by my closed-back ANC headphones (Sony WH-1000XM4), I stumbled upon the Creative Pebble while browsing Umart. So I decided to pick these $20 pair of speakers up and give my opinions in addition to testing them for myself. So here's the rundown:
 
 ### Pros
 
