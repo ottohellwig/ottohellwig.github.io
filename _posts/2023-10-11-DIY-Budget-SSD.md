@@ -67,11 +67,6 @@ _SSD Packaging_
     ![dark mode only](/assets/img/diy-budget-ssd/step4.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
     _Step 4_
 
-5.  Admire the final product.
-    ![light mode only](/assets/img/diy-budget-ssd/final-product.jpg){: .light .w-75 .shadow .rounded-10 w="400" h="400"}
-    ![dark mode only](/assets/img/diy-budget-ssd/final-product.jpg){: .dark .w-75 .shadow .rounded-10 w='400' h='400' }
-    _Step 5_
-
 ### To Conclude
 
 This has been a fun little day project that took me about a couple minutes excluding waiting on Umart and Amazon. I would definitely recommend this if you have a spare $100 and are bored, or you're looking for a budget solution for physical data storage. If you have any questions, feel free to shoot me a message or leave a comment! Thanks for reading. 👋
