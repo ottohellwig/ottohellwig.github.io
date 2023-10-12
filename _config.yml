@@ -20,10 +20,10 @@ timezone: Australia/Brisbane
 
 title: Otto Hellwig # the main title
 
-tagline: Life, tech and inbetween # it will display as the sub-title
+tagline: Personal tech and life blog # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A blog for tech-related stuff and other things I find interesting.
+  Tech and life blog with guides, reviews and travels.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://ottohellwig.me"
@@ -79,7 +79,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/avatar.jpg
+avatar: /assets/img/avatar.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
