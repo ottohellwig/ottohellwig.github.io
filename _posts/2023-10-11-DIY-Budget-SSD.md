@@ -74,4 +74,4 @@ _SSD Packaging_
 
 ### To Conclude
 
-This has been a fun little day project that took me about a couple minutes excluding waiting on Umart and Amazon. I would definitely recommend this if you have a spare $100 and are bored, or you're looking for a budget solution for physical data storage. If you have any questions, feel free to shoot me a message or leave a comment! Thanks for reading and I hope you have a great day. 👋
+This has been a fun little day project that took me about a couple minutes excluding waiting on Umart and Amazon. I would definitely recommend this if you have a spare $100 and are bored, or you're looking for a budget solution for physical data storage. If you have any questions, feel free to shoot me a message or leave a comment! Thanks for reading. 👋
