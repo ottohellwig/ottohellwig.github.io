@@ -1,10 +1,10 @@
 ---
 title: DIY Budget SSD
-date: 2023-10-11 22:27:00 +1000
+date: 2023-10-11 22:00:00 +1000
 categories: [Guide, Tech]
 tags: [tech, ssd, learning, tutorial] # TAG names should always be lowercase
 image:
-  path: /assets/img/budget-ssd/final-product.jpg
+  path: /assets/img/diy-budget-ssd/final-product.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: DIY Homemade SSD
 ---
@@ -19,15 +19,15 @@ In today's digital age, data storage is crucial, whether you're a professional h
 
 ### Options
 
-There are loads of options for both enclosures and SSDs, so making the right decision really comes down to your own personal needs. For me personally, I'm just a university student with limited requirements so I picked up whatever was cheap at my local Umart. If you are a photographer, video editor or generally have lots of large files, you will most definitely want a high speed SSD and enclosure that can handle those speeds (USB-C, better chip, etc). Here's a really helpful table from [Kingston](https://www.kingston.com/en/blog/pc-performance/ssd-form-factors) to help you out.
+There are loads of options for both enclosures and SSDs, so making the right decision really comes down to your own personal needs. For me personally, I'm just a university student with limited requirements so I picked up whatever was cheap at my local Umart. If you are a photographer, video editor or generally have lots of large files, you will most definitely want a high speed SSD and enclosure that can handle those speeds (USB-C, better chip, etc). Here's a really helpful table from Kingston to help you out.
 
-![light mode only](/assets/img/diy-budget-ssd/ssd-info.png){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-![dark mode only](/assets/img/diy-budget-ssd/ssd-info.png){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+![light mode only](/assets/img/diy-budget-ssd/ssd-info.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+![dark mode only](/assets/img/diy-budget-ssd/ssd-info.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
 _SSD Info Table by Kingston Technology_
 
 ### My DIY SSD
 
-So for the SSD, I picked a [Crucial P3 1TB PCIe NVMe M.2 SSD](https://www.umart.com.au/product/crucial-p3-1tb-ct1000p3ssd8-pcie-nvme-m-2-ssd-65227) for AUD$65.00 from Umart. For the enclosure, I purchased an [ORICO M.2 NVMe SSD Enclosure (M2PV)](https://www.amazon.com.au/ORICO-NVMe-Enclosure-Gbps-Support/dp/B08G14NBCS) for AUD$24.00 from Amazon. Although these are not the most cost effective or performance orientated options, they were relatively cheap and convenient. Further, the total cost was much cheaper than buying one from JB Hi-Fi, Officeworks or the other tech stores.
+So for the SSD, I picked a Crucial P3 1TB PCIe NVMe M.2 SSD for AUD$65.00 from Umart. For the enclosure, I purchased an ORICO M.2 NVMe SSD Enclosure (M2PV) for AUD$24.00 from Amazon. Although these are not the most cost effective or performance orientated options, they were relatively cheap and convenient. Further, the total cost was much cheaper than buying one from JB Hi-Fi, Officeworks or the other tech stores.
 
 ### DIY Price vs. Premade Price
 
@@ -67,11 +67,6 @@ _SSD Packaging_
     ![dark mode only](/assets/img/diy-budget-ssd/step4.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
     _Step 4_
 
-5.  Admire the final product.
-    ![light mode only](/assets/img/diy-budget-ssd/final-product.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-    ![dark mode only](/assets/img/diy-budget-ssd/final-product.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
-    _Step 5_
-
 ### To Conclude
 
-This has been a fun little day project that took me about a couple minutes excluding waiting on Umart and Amazon. I would definitely recommend this if you have a spare $100 and are bored, or you're looking for a budget solution for physical data storage. If you have any questions, feel free to shoot me a message or leave a comment! Thanks for reading and I hope you have a great day. 👋
+This has been a fun little day project that took me about a couple minutes excluding waiting on Umart and Amazon. I would definitely recommend this if you have a spare $100 and are bored, or you're looking for a budget solution for physical data storage. If you have any questions, feel free to shoot me a message or leave a comment! Thanks for reading. 👋
