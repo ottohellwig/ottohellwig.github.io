@@ -1,16 +1,13 @@
-<div align="center">
 
-  # Tech Blog
+# Tech Blog
 
-  My tech blog using the Jekyll theme Chirpy.
+My tech blog using the Jekyll theme Chirpy.
 
-  [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)&nbsp;
-  [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)&nbsp;
-  [![Jekyll](https://img.shields.io/badge/Jekyll-2ea44f?style=for-the-badge&logo=Jekyll&logoColor=White)](https://jekyllrb.com/)
+[![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)&nbsp;
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)&nbsp;
+[![Jekyll](https://img.shields.io/badge/Jekyll-2ea44f?style=for-the-badge&logo=Jekyll&logoColor=White)](https://jekyllrb.com/)
 
-  ![image](https://github.com/ottohellwig/ottohellwig.github.io/assets/105997582/4f540d30-79ef-46ab-b36c-c55478e379e5)
-
-</div>
+![image](https://github.com/ottohellwig/ottohellwig.github.io/assets/105997582/4f540d30-79ef-46ab-b36c-c55478e379e5)
 
 ## Features
 
