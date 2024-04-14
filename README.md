@@ -7,7 +7,8 @@ My tech blog using the Jekyll theme Chirpy.
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)&nbsp;
 [![Jekyll](https://img.shields.io/badge/Jekyll-2ea44f?style=for-the-badge&logo=Jekyll&logoColor=White)](https://jekyllrb.com/)
 
-![image](https://github.com/ottohellwig/ottohellwig.github.io/assets/105997582/4f540d30-79ef-46ab-b36c-c55478e379e5)
+![image](https://github.com/ottohellwig/ottohellwig.github.io/assets/105997582/e2f0f3d0-7346-46d8-939c-10500cfda75c)
+
 
 ## Features
 
