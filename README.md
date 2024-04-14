@@ -1,7 +1,7 @@
 
-# Tech Blog
+# My Blog
 
-My tech blog using the Jekyll theme Chirpy.
+My blog using the Jekyll theme Chirpy.
 
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)&nbsp;
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)&nbsp;
