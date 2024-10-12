@@ -1,5 +1,5 @@
 ---
-title: Mastering the Keys
+title: How To Not Suck At Typing
 author: Otto Hellwig
 date: 2023-07-25 15:00:00 +1000
 categories: [Guide, Typing]
@@ -7,7 +7,7 @@ tags: [typing, wpm, test, learning]
 render_with_liquid: false
 ---
 
-In today's fast-paced digital world, typing has become an essential skill. Whether you're a student trying to keep up with class notes, a professional aiming to improve productivity, or a writer expressing your creativity, typing faster can be a game-changer. In this blog, I'll share some practical tips and techniques to help you enhance your typing speed and efficiency.
+This is for you turtle speed typers that are sub-65WPM. In this post, I'll share some practical tips and techniques to help you enhance your typing speed and efficiency.
 
 **A quick disclaimer:** I'm no typing maestro but I have climbed from 60 WPM to averaging 110 WPM _comfortably_ on any keyboard.
 
