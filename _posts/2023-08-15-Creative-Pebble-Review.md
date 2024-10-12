@@ -4,7 +4,7 @@ date: 2023-08-15 19:40:00 +1000
 categories: [Review, Tech]
 tags: [tech, speakers, review, creative] # TAG names should always be lowercase
 image:
-  path: /assets/img/creative-pebble-review/pebble1.jpg
+  path: /assets/lib/creative-pebble-review/pebble1.jpg
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt: Creative Pebble Speakers
 ---
