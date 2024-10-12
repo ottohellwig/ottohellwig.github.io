@@ -1,12 +1,10 @@
 ---
 title: Mastering the Keys
+author: Otto Hellwig
 date: 2023-07-25 15:00:00 +1000
 categories: [Guide, Typing]
-tags: [typing, wpm, test, learning] # TAG names should always be lowercase
-image:
-  path: /assets/lib/mastering-the-keys/typing-test-sc.png
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: My Typing Test WPM Results
+tags: [typing, wpm, test, learning] 
+render_with_liquid: false
 ---
 
 In today's fast-paced digital world, typing has become an essential skill. Whether you're a student trying to keep up with class notes, a professional aiming to improve productivity, or a writer expressing your creativity, typing faster can be a game-changer. In this blog, I'll share some practical tips and techniques to help you enhance your typing speed and efficiency.

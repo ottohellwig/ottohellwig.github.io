@@ -1,12 +1,10 @@
 ---
 title: DIY Budget SSD
+author: Otto Hellwig
 date: 2023-10-11 22:00:00 +1000
 categories: [Guide, Tech]
 tags: [tech, ssd, learning, tutorial] # TAG names should always be lowercase
-image:
-  path: /assets/lib/diy-budget-ssd/final-product.jpg
-  lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: DIY Homemade SSD
+render_with_liquid: false
 ---
 
 In today's digital age, data storage is crucial, whether you're a professional handling large files or a casual user looking to boost your device's performance. One cost-effective way to upgrade your storage is by creating your own DIY budget SSD. Hopefully I will be able to guide you through the process of transforming an old hard drive or purchasing a low-cost SSD and pairing it with an enclosure to build your own budget-friendly SSD. If not, then I can share my experiences making a budget SSD and using it frequently for 2+ months.
