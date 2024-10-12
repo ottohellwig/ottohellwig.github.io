@@ -23,8 +23,8 @@ After looking for budget speakers to reduce the discomfort caused by my closed-b
 - Not Ideal for Large Spaces: These speakers are best suited for smaller rooms or personal setups. In larger spaces, they might struggle to fill the area with sound adequately.
 - No Bluetooth Connectivity: Unlike some competitors, the Pebble 2.0 speakers rely solely on a wired USB connection. This limits their versatility, as they can't connect wirelessly to smartphones or other Bluetooth-enabled devices.
 
-![light mode only](/assets/lib/creative-pebble-review/pebble2.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-![dark mode only](/assets/lib/creative-pebble-review/pebble2.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+![light mode only](/assets/img/creative-pebble-review/pebble2.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+![dark mode only](/assets/img/creative-pebble-review/pebble2.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
 _Admire the beauty of the pebble_
 
 ### Verdict

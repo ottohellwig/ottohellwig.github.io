@@ -19,8 +19,8 @@ In today's digital age, data storage is crucial, whether you're a professional h
 
 There are loads of options for both enclosures and SSDs, so making the right decision really comes down to your own personal needs. For me personally, I'm just a university student with limited requirements so I picked up whatever was cheap at my local Umart. If you are a photographer, video editor or generally have lots of large files, you will most definitely want a high speed SSD and enclosure that can handle those speeds (USB-C, better chip, etc). Here's a really helpful table from Kingston to help you out.
 
-![light mode only](/assets/lib/diy-budget-ssd/ssd-info.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-![dark mode only](/assets/lib/diy-budget-ssd/ssd-info.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+![light mode only](/assets/img/diy-budget-ssd/ssd-info.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+![dark mode only](/assets/img/diy-budget-ssd/ssd-info.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
 _SSD Info Table by Kingston Technology_
 
 ### My DIY SSD
@@ -35,19 +35,19 @@ The variance in price increases signficantly when the storage size increases. Ke
 
 Here are some of the pictures I took while building mine, it is super straight forward. Obviously, unboxing anything is always the best part of the experience. Check these out:
 
-![light mode only](/assets/lib/diy-budget-ssd/box.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-![dark mode only](/assets/lib/diy-budget-ssd/box.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+![light mode only](/assets/img/diy-budget-ssd/box.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+![dark mode only](/assets/img/diy-budget-ssd/box.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
 _SSD and Enclosure Boxes_
 
-![light mode only](/assets/lib/diy-budget-ssd/ssd-package.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-![dark mode only](/assets/lib/diy-budget-ssd/ssd-package.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+![light mode only](/assets/img/diy-budget-ssd/ssd-package.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+![dark mode only](/assets/img/diy-budget-ssd/ssd-package.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
 _SSD Packaging_
 
 ### Quick Guide
 
 1.  Unscrew or open the SSD enclosure.
-    ![light mode only](/assets/lib/diy-budget-ssd/step1.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-    ![dark mode only](/assets/lib/diy-budget-ssd/step1.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+    ![light mode only](/assets/img/diy-budget-ssd/step1.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+    ![dark mode only](/assets/img/diy-budget-ssd/step1.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
     _Step 1_
 
 2.  Open the SSD enclosure and insert the SSD into the slot carefully.
@@ -56,13 +56,13 @@ _SSD Packaging_
     _Step 2_
 
 3.  Apply thermal pad onto the SSD (side where chip is facing).
-    ![light mode only](/assets/lib/diy-budget-ssd/step3.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-    ![dark mode only](/assets/lib/diy-budget-ssd/step3.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+    ![light mode only](/assets/img/diy-budget-ssd/step3.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+    ![dark mode only](/assets/img/diy-budget-ssd/step3.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
     _Step 3_
 
 4.  Put cover back on and screw together.
-    ![light mode only](/assets/lib/diy-budget-ssd/step4.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-    ![dark mode only](/assets/lib/diy-budget-ssd/step4.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+    ![light mode only](/assets/img/diy-budget-ssd/step4.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+    ![dark mode only](/assets/img/diy-budget-ssd/step4.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
     _Step 4_
 
 ### To Conclude
