@@ -51,8 +51,8 @@ _SSD Packaging_
     _Step 1_
 
 2.  Open the SSD enclosure and insert the SSD into the slot carefully.
-    ![light mode only](/assets/lib/diy-budget-ssd/step2.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-    ![dark mode only](/assets/lib/diy-budget-ssd/step2.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
+    ![light mode only](/assets/img/diy-budget-ssd/step2.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
+    ![dark mode only](/assets/img/diy-budget-ssd/step2.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
     _Step 2_
 
 3.  Apply thermal pad onto the SSD (side where chip is facing).
