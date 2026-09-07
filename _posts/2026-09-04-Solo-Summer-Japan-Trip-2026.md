@@ -6,21 +6,39 @@ categories: [Travel, Itinerary]
 tags: [travel, itinerary, japan, solo-travel, summer]
 ---
 
-Earlier this summer, I embarked on a 13-day solo adventure across Japan—my first time traveling alone internationally. From the neon-lit streets of Tokyo to the serene mountain valleys of Kamikochi, this trip was transformative in ways I didn't expect. Here's a breakdown of my journey and the highlights that made it unforgettable.
+Earlier this summer, I embarked on my first solo adventure across Japan. This was my third visit to Japan but my first time exploring Nagano prefecture and experiencing matsuri/hanabi. 
 
 ## The Itinerary
 
-**Day 1: Tokyo** – Touched down at Narita Airport and made my way to Tokyo for my first night. Jet-lagged but thrilled, I explored the area around my accommodation and grabbed some incredible ramen.
+**Day 1: Tokyo** – Touched down at Narita Airport and made my way to Tokyo for my first night. On the plane a Japanese guy gave me a kit kat and we had a small chat so my spirits for the trip were good I headed to a sushi branch he recommended - Uobei (Shibuya Dogenzaka) for dinner. Anyways, I smashed out 15 plates of sushi, a miso soup, oolong tea, a pint of Kirin, and headed to bed.
 
-**Days 2-3: Matsumoto & Kamikochi** – I took an early train to Matsumoto to explore the stunning Matsumoto Castle. The architecture and history were breathtaking. The next morning, I woke before dawn and made the trek to Kamikochi, one of Japan's most beautiful alpine valleys.
+[INSERT IMAGE OF FOOD]
 
-**Day 4: Nagano City** – After Kamikochi, I headed to Nagano City to recover and explore at a slower pace.
+Day 2: Matsumoto - Woke up and went from my hotel in Akabane to Shinjuku. I was struggling to book a Limited Express Ticket and after talking to an attendant, I was told that there were only standing tickets remaining. I'm normally pretty relaxed with standing but a 3.5hr standing commute with a 7kg backpack and potentially no battery sounded like hell. So I booked the next available seat and went to Yoshinoya to eat in the meantime. 
 
-**Day 5: Suwa** – I traveled to Suwa, a charming lakeside city. That evening, I witnessed the spectacular fireworks display over Lake Suwa—a moment I'll never forget.
+[INSERT IMAGE OF FOOD]
 
-**Days 6-13: Tokyo & Day Trips** – I returned to Tokyo and spent the rest of my trip based there, taking two memorable day trips: one to the misty mountains and temples of Nikko, and another to the island shrine and beaches of Enoshima.
+I boarded the train and arrived at Matsumoto around 2:30PM where I headed to Yōhashira-jinja tucked next to Nawate Street. I strolled over to Matsumoto Castle and waited like a solid 35min in line to tour the castle. It was a pretty cool experience and some of the artefacts like early firearms were interesting though it was mostly empty and the stairs were diabolically steep/slippery. 
 
-## Highlights That Took My Breath Away
+[INSERT IMAGE OF MATSUMOTO SHRINE + NAWATE + CASTLE]
+
+After the castle tour I wanted to check out the Matsumoto Art Gallery to see Yayoi Kusama's works but it was closed so with a bit of time left before checking into my next home for the trip - I went to the Matsumoto City Museum. This place was actually filled with awesome historical pieces like samurai, firefighter and religious artefacts. 
+
+[INSERT IMAGE OF CITY MUSEUM] 
+
+I dropped my bag off at the little capsule hotel (my first time trying one - honestly out of necessity as accomodation in Matsumoto was super limited). Then I headed to Ganso Stamina Yakitori Matsumoto Ekimae Ten to try the Nagano special delicacy - basashi (horse meat sashimi, some yakitori skewers, potato salad and a cheeky beer.
+
+Day 3: Kamikochi - 
+
+**Day 4: Nagano City** – 
+
+**Day 5: Suwa** –
+
+Day 8: Nikko - 
+
+Day 10: Enoshima -
+
+## Highlights 
 
 ### Kamikochi: Where Mountains Meet Soul
 
@@ -28,7 +46,7 @@ Kamikochi was hands-down the trip's centerpiece. Standing in that alpine valley,
 
 ### Fireworks Over Lake Suwa
 
-The fireworks festival at Lake Suwa was pure magic. Thousands of people gathered on the shore as the sky erupted in color and light. Despite being in a crowd, there was something intimate about experiencing such beauty solo—it felt personal.
+The fireworks festival at Lake Suwa was pure magic. h
 
 ### The Water Matsuri Festival in Tokyo
 
@@ -44,10 +62,17 @@ Enoshima, with its island shrine and coastal views, offered a different kind of 
 
 ## Lessons from Solo Travel
 
-This trip taught me that traveling alone isn't lonely—it's liberating. You move at your own pace, make spontaneous decisions, and have space to process new experiences. It also taught me that Japan's infrastructure makes solo travel incredibly accessible. Every train was on time, signs were clear, and people were endlessly patient with my limited Japanese.
+I won't impart any wisdom from this trip because that's not really the purpose of this blog, nor could I, even if I wanted to. But I will touch on the more spiritual lessons that I learnt from my solo trip - specifcally my reflection of social interactions I had with many different people that were mostly excluded from this blog post.
 
-Would I do it again? Absolutely. Japan will always have a special place in my heart, and I'm already planning my return.
+For many, small interactions like a stranger giving a snack or having a  chat  may sound insignificant but they really made this solo travel trip way less lonely. It's a weird feeling to feel alone when you're surrounded by hundreds if not thousands of people, but it is exactly that feeling that made the some parts of the trip difficult. For the most part, I really enjoyed walking in solitude, taking pictures, trying foods and exploring. I think this is all subjective but for me personally, I think this solo trip had a pretty profound impact on the way I view not just holidays but myself as a person.
+
+Would I do it again? Most likely. 
+
+Will I visit
+Japan again? It'll always have a special place in my heart but I think it's time to explore another country.
+
+My final advice? Life is really short - yes travelling alone can be scary, sometimes even uncomfortable or lonely but I think it's a good opportunity to grow and learn more about yourself.
 
 ---
 
-*Have you traveled solo? What's your favorite destination? Drop a comment below—I'd love to hear about your adventures!*
+*Have you traveled solo? How was the experience? What's your favorite destination? Drop a comment below—I'd love to hear about your adventures!*
