@@ -14,7 +14,7 @@ Earlier this summer, I embarked on my first solo adventure across Japan. This wa
 
 [INSERT IMAGE OF FOOD]
 
-Day 2: Matsumoto - Woke up and went from my hotel in Akabane to Shinjuku. I was struggling to book a Limited Express Ticket and after talking to an attendant, I was told that there were only standing tickets remaining. I'm normally pretty relaxed with standing but a 3.5hr standing commute with a 7kg backpack and potentially no battery sounded like hell. So I booked the next available seat and went to Yoshinoya to eat in the meantime. 
+**Day 2: Matsumoto** - Woke up and went from my hotel in Akabane to Shinjuku. I was struggling to book a Limited Express Ticket and after talking to an attendant, I was told that there were only standing tickets remaining. I'm normally pretty relaxed with standing but a 3.5hr standing commute with a 7kg backpack and potentially no battery sounded like hell. So I booked the next available seat and went to Yoshinoya to eat in the meantime. 
 
 [INSERT IMAGE OF FOOD]
 
@@ -28,15 +28,27 @@ After the castle tour I wanted to check out the Matsumoto Art Gallery to see Yay
 
 I dropped my bag off at the little capsule hotel (my first time trying one - honestly out of necessity as accomodation in Matsumoto was super limited). Then I headed to Ganso Stamina Yakitori Matsumoto Ekimae Ten to try the Nagano special delicacy - basashi (horse meat sashimi, some yakitori skewers, potato salad and a cheeky beer.
 
-Day 3: Kamikochi - 
+**Day 3: Kamikochi -** 
 
 **Day 4: Nagano City** – 
 
-**Day 5: Suwa** –
+**Day 5: Lake Suwa** –
 
-Day 8: Nikko - 
+**Day 6: Fukagawa Hachiman Matsuri -**
 
-Day 10: Enoshima -
+**Day 7: Tsukiji Fish Market-** 
+
+**Day 8: Nikko -** 
+
+**Day 9: Tokyo -**
+
+**Day 10: Enoshima -**
+
+**Day 11: Omakase -**
+
+**Day 12: Oi Racecourse Flea Market -**
+
+**Day 13: Narita -**
 
 ## Highlights 
 
@@ -60,9 +72,14 @@ Nikko exceeded all my expectations. Walking through misty forest paths, visiting
 
 Enoshima, with its island shrine and coastal views, offered a different kind of beauty. The beaches were beautiful, the food was delicious, and watching the sunset from the island felt like the perfect reset before heading home.
 
-## Lessons from Solo Travel
+## What I'd Do Different
 
-I won't impart any wisdom from this trip because that's not really the purpose of this blog, nor could I, even if I wanted to. But I will touch on the more spiritual lessons that I learnt from my solo trip - specifcally my reflection of social interactions I had with many different people that were mostly excluded from this blog post.
+When it comes to the itinerary and what I did - there are quite a number of things I'd probably do differently next time. Here is a pretty long list:
+
+
+## My Experience Solo Travelling Japan
+
+I won't impart any wisdom from this trip because I'm not a philosopher but I will reflect on the spiritual lessons of this trip. After reflecting on the interactions  I had with many different people that were mostly excluded from this blog post.
 
 For many, small interactions like a stranger giving a snack or having a  chat  may sound insignificant but they really made this solo travel trip way less lonely. It's a weird feeling to feel alone when you're surrounded by hundreds if not thousands of people, but it is exactly that feeling that made the some parts of the trip difficult. For the most part, I really enjoyed walking in solitude, taking pictures, trying foods and exploring. I think this is all subjective but for me personally, I think this solo trip had a pretty profound impact on the way I view not just holidays but myself as a person.
 
