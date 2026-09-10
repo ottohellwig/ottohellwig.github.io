@@ -1,8 +1,8 @@
 ---
-title: How To Not Suck At Typing
+title: How to Type Faster
 author: Otto Hellwig
 date: 2023-07-25 15:00:00 +1000
-categories: [Guide, Typing]
+categories: [Guide, Tech]
 tags: [typing, wpm, test, learning] 
 render_with_liquid: false
 ---

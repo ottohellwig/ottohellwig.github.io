@@ -1,6 +1,6 @@
 ---
 title: Solo Summer Japan Trip 2026
-author: otto
+author: Otto Hellwig
 date: 2026-09-04 18:24:43 +1000
 categories: [Travel, Itinerary]
 tags: [travel, itinerary, japan, solo-travel, summer]
