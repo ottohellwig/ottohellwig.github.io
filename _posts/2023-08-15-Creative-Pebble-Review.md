@@ -7,28 +7,37 @@ tags: [tech, speakers, review, creative]
 render_with_liquid: false
 ---
 
-After looking for budget speakers to reduce the discomfort caused by my closed-back ANC headphones (Sony WH-1000XM4), I stumbled upon the Creative Pebble while browsing Umart. So I decided to pick these $20 pair of speakers up and give my opinions in addition to testing them for myself. So here's the rundown:
+After looking for some budget speakers to reduce the discomfort caused from my Sony WH-1000XM4 (ANC), I stumbled upon the Creative Pebbles at Umart. So, I decided to pick these $20 pair of speakers up and give my honest two cents.
 
+### Specs
+| Specification | Details |
+| --- | --- |
+| **Type** | 2.0 stereo speakers |
+| **Drivers** | 2 × 2-inch full-range drivers |
+| **Power** | 4.4 W RMS total |
+| **Frequency response** | 100 Hz – 17 kHz |
+| **Signal-to-noise ratio** | 86 dB |
+| **Connectivity** | 3.5 mm AUX |
+| **Power** | USB-A (5V/1A) |
+| **Bluetooth** | No |
+| **USB audio** | No — USB is for power only |
+| **Controls** | Front-facing volume knob |
+| **Dimensions** | Approx. 114 × 113 × 116 mm per speaker |
+| **Weight** | Approx. 300 g (left) / 345 g (right) |
 ### Pros
 
-- Stylish and Space-Saving Design: The Creative Pebble 2.0 speakers boast a sleek, modern design that complements various setups, whether it's a clutter-free workspace or a minimalist entertainment area.
-- Decent Audio Performance: Considering their compact size, the Pebble 2.0 speakers deliver surprisingly clear and balanced audio across the frequency range. They handle mid-tones and vocals exceptionally well, making them suitable for everyday listening and casual gaming.
-- Ease of Use: Setting up the Pebble 2.0 speakers is a breeze; simply connect them to your device via a single USB cable for both power and audio. The built-in volume knob provides convenient control, and there's no need for additional software installation.
-- Affordable Price Point: The Pebble 2.0 speakers offer good value for the audio quality they provide. They're a cost-effective solution for enhancing audio without breaking the bank.
-- Angled Drivers for Enhanced Sound Projection: The speakers' 45-degree angle design ensures that sound is directed towards the user, resulting in an immersive listening experience.
+- Decent Audio Performance: Considering their compact size, the Pebble 2.0 speakers deliver surprisingly clear and balanced audio across the frequency range. They handle mid-tones and vocals exceptionally well, making them suitable for everyday listening.
+- Affordable Price Point: The Pebble 2.0 speakers offer good value for the audio quality they provide. For $20 you really cannot go wrong with these.
+
 
 ### Cons
 
-- Limited Bass: Due to their compact size, the Pebble 2.0 speakers lack significant bass presence. While they handle mid and high frequencies well, deep bass enthusiasts might find the overall audio profile a bit lacking.
-- Not Ideal for Large Spaces: These speakers are best suited for smaller rooms or personal setups. In larger spaces, they might struggle to fill the area with sound adequately.
-- No Bluetooth Connectivity: Unlike some competitors, the Pebble 2.0 speakers rely solely on a wired USB connection. This limits their versatility, as they can't connect wirelessly to smartphones or other Bluetooth-enabled devices.
+- Concave Shape Is a Dust Magnet: The Creative Pebble is like a watermelon that was cut in half and had a bit of its flesh scooped out. Because of this concave design, it seriously attracts dust like crazy - sure you could just simply wipe it every so often but it is something to consider.
+- No Bluetooth Connectivity: This is probably a given but the Pebble 2.0 speakers rely solely on a wired USB connection. This limits their versatility, as they can't connect wirelessly to smartphones or other Bluetooth-enabled devices. I'm also not a huge fan of the cable set-up on these but none of it has been unusable or had any functional impact.
 
 ![light mode only](/assets/img/creative-pebble-review/pebble2.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-![dark mode only](/assets/img/creative-pebble-review/pebble2.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
-_Admire the beauty of the pebble_
+![dark mode only](/assets/img/creative-pebble-review/pebble2.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' } Look at the pretty Pebble
 
 ### Verdict
 
-The Creative Pebble 2.0 speakers are a charming addition to any desktop or small entertainment setup. Their stylish design, ease of use, and commendable audio performance make them a suitable choice for those looking to upgrade from built-in monitor or laptop speakers. While the lack of robust bass and Bluetooth connectivity might be a drawback for some users, the Pebble 2.0 speakers offer solid value for their price point. Whether you're streaming music, watching videos, or engaging in light gaming, these speakers provide a refreshing audio experience that belies their compact size. Further, at a price which is practically irresistible, they are a welcome addition to my desktop setup.
-
-Rating: ★★★★☆ (4/5)
+The Creative Pebble 2.0 speakers are a cheap and useful addition to any desk setup. Their stylish design, ease of use, and commendable audio performance make them a suitable choice for those looking to upgrade from built-in monitor or laptop speakers. While the lack of robust bass and Bluetooth connectivity might be a drawback for some users, the Pebble 2.0 speakers offer solid value for their price point. Whether you're streaming music, watching videos, or engaging in light gaming, these speakers provide a refreshing audio experience that belies their compact size. Further, at a price which is practically irresistible, they are a welcome addition to my desktop setup.

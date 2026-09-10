@@ -1,15 +1,15 @@
 ---
-title: How To Not Suck At Typing
+title: How to Type Faster
 author: Otto Hellwig
 date: 2023-07-25 15:00:00 +1000
-categories: [Guide, Typing]
+categories: [Guide, Tech]
 tags: [typing, wpm, test, learning] 
 render_with_liquid: false
 ---
 
-This is for you turtle speed typers that are sub-65WPM. In this post, I'll share some practical tips and techniques to help you enhance your typing speed and efficiency.
+This is for you turtle speed typers that are sub-65WPM. In this post, I'll share some practical tips and techniques to help you improve your typing speed.
 
-**A quick disclaimer:** I'm no typing maestro but I have climbed from 60 WPM to averaging 110 WPM _comfortably_ on any keyboard.
+**A quick disclaimer:** I'm no typing maestro but I went from 60 WPM to averaging 120 WPM *comfortably* on any keyboard.
 
 So here's how I did it:
 
@@ -35,8 +35,7 @@ Regardless, pick and take a test to determine your words-per-minute (WPM) and **
 
 Touch typing is the holy grail of fast and accurate typing. It involves using all ten fingers without looking at the keyboard. To start, familiarize yourself with the correct hand positioning: place your fingers on the "home row" keys (ASDF for the left hand and JKL; for the right hand) and let them rest there.
 
-### Utilize Online Typing Tools and Games
-
+### Rinse and Repeat Typing
 The internet offers a wealth of resources to help you practice and improve your typing speed. Explore websites that offer typing games or interactive lessons. Not only are they fun, but they also challenge you to type quickly and accurately.
 
 One of my favourite typing games is [Epistory](https://epistorygame.com/), an action-adventure typing video game.
@@ -51,13 +50,9 @@ Keyboards can have a significant impact on typing speed and overall typing exper
 
 ![light mode only](https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=540%2Cq=85%2Cwidth=960/wp-content/uploads/keyboard-sizes.png){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
 ![dark mode only](https://prosettings.net/cdn-cgi/image/dpr=1%2Cf=auto%2Cfit=cover%2Cheight=540%2Cq=85%2Cwidth=960/wp-content/uploads/keyboard-sizes.png){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
-_Source: [ProSettings](https://prosettings.net/blog/keyboard-size-differences-explained/), Keyboard Sizes_
+*Source:* [*ProSettings*](https://prosettings.net/blog/keyboard-size-differences-explained/)*, Keyboard Sizes*
 
 - Keycap Profile: The angle, shape and size of keycaps defines it's profile. Keycaps with dramatic undulation and heights can make typing tiring and difficult. Whereas keycap profiles which are flat like DSA or Cherry can cause signficant mistyping or key rolling. I find MDA and MCR are the most ideal as they are the middleground in both height and angles.
-
-![light mode only](https://cdn.autonomous.ai/static/upload/images/common/upload/20220405/Complete-Guide-of-Keycap-Profiles-and-Materials_260fb2d60b0.jpg){: .light .w-75 .shadow .rounded-10 w="700" h="400"}
-![dark mode only](https://cdn.autonomous.ai/static/upload/images/common/upload/20220405/Complete-Guide-of-Keycap-Profiles-and-Materials_260fb2d60b0.jpg){: .dark .w-75 .shadow .rounded-10 w='700' h='400' }
-_Source: [Autonomous](https://www.autonomous.ai/ourblog/guide-of-keycap-profiles-and-materials), Keycap Profiles_
 
 ### Conclusion
 

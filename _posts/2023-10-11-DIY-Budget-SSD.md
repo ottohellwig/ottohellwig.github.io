@@ -3,7 +3,7 @@ title: DIY Budget SSD
 author: Otto Hellwig
 date: 2023-10-11 22:00:00 +1000
 categories: [Guide, Tech]
-tags: [tech, ssd, learning, tutorial] # TAG names should always be lowercase
+tags: [guide, tech, ssd] # TAG names should always be lowercase
 render_with_liquid: false
 ---
 
